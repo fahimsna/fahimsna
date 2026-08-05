@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Fahim Shahriar Nur 👋
 
-<!--
-**fahimsna/fahimsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Intern  
+🎓 Computer Science Student at BRAC University  
+🌱 Learning Full Stack Web Development
 
-Here are some ideas to get you started:
+I enjoy building web applications and solving programming problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+### Tools
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 🔥 Featured Projects
+
+### 🎬 NexPlay
+Entertainment discovery and marketing platform built with MERN stack.
+
+Tech:
+React | Node.js | Express | MongoDB
+
+
+### 🌦 Weather App
+Weather application using API integration.
+
+Tech:
+HTML | CSS | JavaScript
+
+
+### 🛒 E-commerce Demo
+Frontend e-commerce project using JavaScript Fetch API.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/fahimsna
+
+LeetCode:
+https://leetcode.com/u/fahimsna/
+
+Codeforces:
+https://codeforces.com/profile/NightKing_FS
+
+Email:
+shahriarfahim091@gmail.com
