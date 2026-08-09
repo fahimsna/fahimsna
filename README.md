@@ -110,14 +110,20 @@ A frontend e-commerce application focused on dynamic product rendering and API-b
 
 ---
 
-# 📈 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimsna&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimsna&layout=compact&hide_border=true" height="170"/>
+  <a href="https://github.com/fahimsna">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimsna&hide_border=true" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/fahimsna">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimsna&hide_border=true" />
+  </a>
+</p>
+
 
 # 🏆 Competitive Programming
 
