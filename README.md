@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Fahim Shahriar Nur
+# 👋 Fahim Shahriar Nur
 
 ### Software Development Intern · Full-Stack Web Developer
 
@@ -34,25 +34,41 @@ My current focus is becoming a stronger **full-stack developer** through practic
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-**Backend**
+**HTML · CSS · JavaScript · React · Tailwind CSS**
 
-`Node.js` `Express.js` `REST APIs`
+### Backend
 
-**Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-`MongoDB` `Mongoose`
+**Node.js · Express.js · REST APIs**
 
-**Authentication & Payments**
+### Database
 
-`JWT` `Stripe Checkout` `Stripe Webhooks`
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-**Tools**
+**MongoDB · Mongoose**
 
-`Git` `GitHub` `VS Code` `Postman`
+### Authentication & Payments
+
+**JWT · Protected Routes · Stripe Checkout · Stripe Webhooks**
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Git · GitHub · VS Code · Postman**
 
 ---
 
