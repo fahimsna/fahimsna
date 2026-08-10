@@ -1,156 +1,130 @@
-<h1 align="center">👋 Hi, I'm Fahim Shahriar Nur</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Development Intern | Full-Stack Web Developer | Computer Science Student</strong>
+# 👋 Fahim Shahriar Nur
+
+### Software Development Intern · Full-Stack Web Developer
+
+**Computer Science Student @ BRAC University**
+
+<p>
+  <a href="https://github.com/fahimsna">
+    <img src="https://img.shields.io/badge/GitHub-fahimsna-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fahimsna">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shahriarfahim091@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  I'm a Computer Science student at <strong>BRAC University</strong> and a
-  <strong>Software Development Intern at Brain Craft Ltd.</strong>
-</p>
-
-<p align="center">
-  I build web applications using the <strong>MERN stack</strong>, with hands-on
-  experience in frontend development, RESTful APIs, backend services,
-  databases, authentication, and third-party integrations.
-</p>
-
-<p align="center">
-  Focused on becoming a stronger full-stack developer by building practical
-  applications and continuously improving my software engineering skills.
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-```text
-🎓  Computer Science @ BRAC University
-💼  Software Development Intern @ Brain Craft Ltd.
-🌐  Full-Stack Web Development
-⚙️  MERN Stack & REST APIs
-🗄️  MongoDB & Mongoose
-🔐  Authentication & Protected Routes
-💳  Stripe Checkout & Webhooks
-🔌  Third-Party API Integration
-🧩  Problem Solving & Software Engineering
-```
+I'm a **Computer Science student at BRAC University** and a **Software Development Intern at Brain Craft Ltd.**
+
+I build full-stack web applications using the **MERN stack**, with hands-on experience in frontend development, backend APIs, databases, authentication, and third-party service integration.
+
+My current focus is becoming a stronger **full-stack developer** through practical projects and continuous problem solving.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
-**HTML · CSS · JavaScript · React · Tailwind CSS**
+`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
 
-### Backend
+**Backend**
 
-**Node.js · Express.js · RESTful APIs**
+`Node.js` `Express.js` `REST APIs`
 
-### Database
+**Database**
 
-**MongoDB · Mongoose**
+`MongoDB` `Mongoose`
 
-### Authentication & Payments
+**Authentication & Payments**
 
-**JWT · Protected Routes · Stripe Checkout · Stripe Webhooks**
+`JWT` `Stripe Checkout` `Stripe Webhooks`
 
-### Tools
+**Tools**
 
-**Git · GitHub · VS Code · Postman**
+`Git` `GitHub` `VS Code` `Postman`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌪️ Disaster Response & Relief Coordination System
+### 🌪️ Disaster Response & Relief Coordination System
 
-**Full-Stack Disaster Management Platform**
+**MERN · Stripe · Open-Meteo · Leaflet · Tailwind CSS**
 
-A MERN-based platform developed to support **disaster reporting, relief coordination, volunteer activities, weather monitoring, and donation management**.
+A full-stack disaster response and relief coordination platform developed as a university project.
 
-### 🔹 My Contribution — Donation & Payment Module
+**My Contribution — Donation & Payment Module**
 
-I was responsible for developing the **Donation Campaign & Stripe Payment module** as part of the project team.
-
-* 💰 Developed donation campaign management
-* 🔌 Built donation-related REST APIs
-* 💳 Integrated **Stripe Checkout**
-* 🔔 Implemented **Stripe Webhooks** for payment verification
-* 🗄️ Stored and tracked donation transactions using MongoDB
-* 🔐 Implemented protected donation routes
-* 🧪 Used **Stripe CLI** for local webhook testing
-* 🎨 Developed campaign and donation interfaces
-
-**Tech Stack**
-
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `Stripe`
+* Developed donation campaign management
+* Built donation-related REST APIs
+* Integrated **Stripe Checkout**
+* Implemented **Stripe Webhooks** for payment verification
+* Managed donation records with **MongoDB & Mongoose**
+* Implemented protected donation routes
+* Used **Stripe CLI** for webhook testing
+* Developed campaign and donation interfaces
 
 ---
 
-## 🎬 NexPlay
+### 🎬 NexPlay
 
-**Entertainment Discovery Platform**
+**MERN · REST APIs · Tailwind CSS**
 
-A MERN-based web application for **discovering and exploring entertainment content** through a responsive and interactive interface.
-
-### 🔹 Highlights
+An entertainment discovery platform built with the MERN stack.
 
 * 🎬 Entertainment discovery
 * 🔎 Search and filtering
 * 🔗 REST API integration
 * 🔐 Authentication and protected routes
-* 📱 Responsive React interface
-* 🗄️ MongoDB database integration
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS`
+* 📱 Responsive interface
+* 🗄️ MongoDB integration
 
 ---
 
-## 🌦️ Weather Application
+### 🌦️ Weather Application
 
-**API-Based Weather Application**
+A JavaScript-based weather application demonstrating **third-party API integration and dynamic UI updates**.
 
-A lightweight web application that consumes weather data from an external API and dynamically displays weather information.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `REST API`
+**HTML · CSS · JavaScript · REST API**
 
 ---
 
-## 🛒 E-Commerce Demo
+### 🛒 E-Commerce Demo
 
-**Frontend E-Commerce Application**
+A frontend e-commerce project demonstrating **API consumption, dynamic product rendering, and client-side interactions**.
 
-A frontend e-commerce project focused on **API consumption, dynamic product rendering, and client-side interactions**.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Fetch API`
+**HTML · CSS · JavaScript · Fetch API**
 
 ---
 
-# 🧠 What I Work With
+## 🧠 Core Skills
 
-| Area                  | Technologies                               |
-| --------------------- | ------------------------------------------ |
-| **Frontend**          | HTML, CSS, JavaScript, React, Tailwind CSS |
-| **Backend**           | Node.js, Express.js, RESTful APIs          |
-| **Database**          | MongoDB, Mongoose                          |
-| **Authentication**    | JWT, Protected Routes                      |
-| **Payments**          | Stripe Checkout, Stripe Webhooks           |
-| **API Integration**   | REST APIs, Third-Party APIs                |
-| **Development Tools** | Git, GitHub, Postman, VS Code              |
+| Area            | Technologies                               |
+| --------------- | ------------------------------------------ |
+| Frontend        | HTML, CSS, JavaScript, React, Tailwind CSS |
+| Backend         | Node.js, Express.js, REST APIs             |
+| Database        | MongoDB, Mongoose                          |
+| Authentication  | JWT, Protected Routes                      |
+| Payments        | Stripe Checkout, Stripe Webhooks           |
+| API Integration | REST APIs, Third-Party APIs                |
+| Tools           | Git, GitHub, Postman, VS Code              |
 
 ---
 
-# 🏆 Problem Solving
+## 🏆 Problem Solving
 
-I practice **data structures, algorithms, and problem solving** through competitive programming.
+I practice **Data Structures, Algorithms, and Problem Solving** through competitive programming.
 
 <p>
   <a href="https://leetcode.com/u/fahimsna/">
@@ -163,33 +137,27 @@ I practice **data structures, algorithms, and problem solving** through competit
 
 ---
 
-# 📌 Currently
+## 📌 Currently
 
-```text
-🔨  Building full-stack web applications
-📚  Strengthening backend development skills
-🧩  Practicing data structures & algorithms
-🚀  Preparing for software development opportunities
-```
+* 🔨 Building full-stack web applications
+* 📚 Strengthening backend development
+* 🧩 Practicing Data Structures & Algorithms
+* 🚀 Preparing for software development opportunities
 
 ---
 
-# 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/fahimsna">
-    <img src="https://img.shields.io/badge/GitHub-fahimsna-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/fahimsna">
-    <img src="https://img.shields.io/badge/LinkedIn-Fahim%20Shahriar%20Nur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shahriarfahim091@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shahriarfahim091%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/fahimsna">LinkedIn</a>
+  ·
+  <a href="mailto:shahriarfahim091@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/fahimsna">GitHub</a>
 </p>
 
----
+**💻 Build · Learn · Improve**
 
-<p align="center">
-  <b>💻 Build · Learn · Improve</b>
-</p>
+</div>
