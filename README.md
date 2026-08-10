@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Fahim Shahriar Nur
+#  Fahim Shahriar Nur
 
 ### Software Development Intern · Full-Stack Web Developer
 
