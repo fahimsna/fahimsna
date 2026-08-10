@@ -48,12 +48,17 @@ My current focus is becoming a stronger **full-stack developer** through practic
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
 **Node.js · Express.js · REST APIs**
 
 ### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
 **MongoDB · Mongoose**
