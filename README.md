@@ -1,29 +1,30 @@
 # 👋 Hi, I'm Fahim Shahriar Nur
 
-### Software Development Intern • Computer Science Student • Full-Stack Developer
+### Software Development Intern · Computer Science Student · Full-Stack Web Developer
 
-I'm a Computer Science student at **BRAC University** and a **Software Development Intern at Brain Craft Ltd.**
+I'm a **Computer Science student at BRAC University** and a **Software Development Intern at Brain Craft Ltd.**
 
-I build web applications with a focus on **clean interfaces, backend development, API integration, and real-world problem solving**.
+I enjoy building web applications, developing backend APIs, integrating third-party services, and turning ideas into practical software solutions.
 
-Currently working with the **MERN stack** and exploring modern full-stack development.
+Currently focused on **MERN stack development, REST APIs, authentication, database-driven applications, and modern frontend development**.
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 💼 Software Development Intern at **Brain Craft Ltd.**
-* 🎓 Studying Computer Science at **BRAC University**
-* 🌐 Building full-stack applications with the **MERN stack**
-* 🔌 Working with REST APIs and third-party API integrations
-* 💳 Experience integrating **Stripe payments and webhooks**
+* 🎓 BSc in Computer Science at **BRAC University**
+* 🌐 Developing full-stack applications using the **MERN stack**
+* ⚙️ Building RESTful APIs with **Node.js & Express.js**
 * 🗄️ Working with **MongoDB & Mongoose**
-* 🧩 Interested in Software Engineering, Web Development & System Design
-* ♟️ Chess player | 📷 Photographer
+* 🔐 Implementing authentication and protected routes
+* 💳 Integrating **Stripe Checkout & Webhooks**
+* 🔌 Working with third-party APIs and external services
+* 🧩 Interested in **Software Engineering, Web Development & System Design**
 
 ---
 
-## ⚡ What I Work With
+## 🛠️ Technical Skills
 
 ### Frontend
 
@@ -37,17 +38,15 @@ Currently working with the **MERN stack** and exploring modern full-stack develo
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Development Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-### Currently Exploring
+### APIs & Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs" />
-</p>
+`REST APIs` · `Stripe` · `Open-Meteo` · `Leaflet` · `JWT`
 
 ---
 
@@ -55,99 +54,95 @@ Currently working with the **MERN stack** and exploring modern full-stack develo
 
 ## 🌪️ Disaster Response & Relief Coordination System
 
-**MERN • Stripe • Open-Meteo • Leaflet • Tailwind CSS**
+### MERN · Stripe · Open-Meteo · Leaflet · Tailwind CSS
 
-A web-based platform designed to improve disaster response and relief coordination in Bangladesh.
+A full-stack disaster response and relief coordination platform developed as a university project to support disaster reporting, volunteer coordination, weather monitoring, and relief activities.
 
-### My Contribution
+### My Contribution — Donation & Payment Module
 
-**Donation Campaign & Payment Module**
+* 💰 Developed donation campaign management functionality
+* 💳 Integrated **Stripe Checkout** for online donations
+* 🔔 Implemented **Stripe Webhooks** for payment verification
+* 📊 Implemented campaign and donation tracking
+* 🗄️ Designed donation data handling with MongoDB & Mongoose
+* 🔐 Developed protected donation-related APIs
+* 🔌 Integrated Stripe CLI for local webhook testing
+* 🎨 Developed the donor-facing campaign and donation interfaces
 
-* 💰 Donation campaign management
-* 💳 Stripe Checkout integration
-* 🔔 Stripe Webhook payment verification
-* 📊 Campaign and donation tracking
-* 🗄️ MongoDB-based donation records
-* 🔐 Protected donation APIs
-* 🎨 Donor-facing campaign interface
-
-**Tech:** React | Tailwind CSS | Node.js | Express.js | MongoDB | Stripe
+**Tech:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose · Stripe
 
 ---
 
-## 🎬 NexPlay
+## 🎬 NexPlay — Entertainment Discovery Platform
 
-**MERN • REST APIs • Tailwind CSS**
+### MERN · REST APIs · Tailwind CSS
 
-An entertainment discovery and marketing platform built with the MERN stack.
+A full-stack entertainment discovery platform designed to help users explore and discover entertainment content through a modern web interface.
 
-### Features
+### Highlights
 
 * 🎥 Entertainment discovery
 * 🔎 Search and filtering
-* 📱 Responsive UI
 * 🔗 REST API integration
-* 📋 Content and campaign management
 * 🔐 Authentication and protected routes
+* 📱 Responsive user interface
+* 🗄️ MongoDB-backed application
 
-**Tech:** React | Node.js | Express.js | MongoDB | Tailwind CSS
+**Tech:** React · Node.js · Express.js · MongoDB · Mongoose · Tailwind CSS
 
 ---
 
 ## 🌦️ Weather Application
 
-A lightweight weather application demonstrating real-time API integration and dynamic frontend rendering.
+A web application that retrieves weather information through an external API and dynamically displays the results.
 
-**Tech:** HTML | CSS | JavaScript | Weather API
+**Tech:** HTML · CSS · JavaScript · REST API
 
 ---
 
 ## 🛒 E-Commerce Demo
 
-A frontend e-commerce application focused on dynamic product rendering and API-based data fetching.
+A frontend e-commerce project focused on consuming API data, dynamically rendering products, and implementing client-side interactions.
 
-**Tech:** HTML | CSS | JavaScript | Fetch API
+**Tech:** HTML · CSS · JavaScript · Fetch API
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub
+
+I use GitHub to build, maintain, and collaborate on software projects.
 
 <p align="center">
   <a href="https://github.com/fahimsna">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimsna&hide_border=true" />
+    <img src="https://img.shields.io/badge/GitHub-fahimsna-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/fahimsna">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimsna&hide_border=true" />
-  </a>
-</p>
-
+---
 
 # 🏆 Competitive Programming
 
-I also practice problem solving and competitive programming.
+I regularly practice **problem solving and algorithmic thinking** through competitive programming platforms.
 
 <p>
   <a href="https://leetcode.com/u/fahimsna/">
-    <img src="https://img.shields.io/badge/LeetCode-fahimsna-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-fahimsna-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/NightKing_FS">
-    <img src="https://img.shields.io/badge/Codeforces-NightKing__FS-red?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-NightKing__FS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/fahimsna">
     <img src="https://img.shields.io/badge/LinkedIn-Fahim%20Shahriar%20Nur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shahriarfahim091@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/fahimsna">
     <img src="https://img.shields.io/badge/GitHub-fahimsna-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -156,10 +151,12 @@ I also practice problem solving and competitive programming.
 
 ---
 
-<p align="center">
-  <i>"Building, learning, and improving one project at a time."</i>
-</p>
+### 🎯 Currently
+
+**Building projects · Improving my full-stack skills · Preparing for software development opportunities**
+
+---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Thanks for visiting my profile! ⭐</i>
 </p>
